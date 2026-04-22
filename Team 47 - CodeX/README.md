@@ -1,3 +1,14 @@
+# APT DETECTION SYSTEM
+
+Team Name: CodeX  
+Team Members: Preksha Kothari  
+Akshita Pahade  
+Theme: Cybersecurity and Digital Defence  
+Language: C++  
+
+## Demo video
+https://drive.google.com/file/d/1neuQGZlI4xv3aLVqiM6ExmGwrxXZiZaM/view?usp=sharing
+
 ## Problem Statement
 
 Modern cyberattacks on financial institutions rarely happen in a single event. An Advanced Persistent Threat (APT) attacker:
@@ -156,10 +167,6 @@ After every run, the system produces two outputs:
 | **PowerShell** *(optional)* | Alert notification via `send_alert.ps1` |
 
 ---
-## Vedio link
-https://drive.google.com/file/d/1neuQGZlI4xv3aLVqiM6ExmGwrxXZiZaM/view?usp=sharing
----
-
 *Cummins College of Engineering · DSA Competition Project 2025*
 README.md
 Displaying README.md.
