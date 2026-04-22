@@ -163,8 +163,8 @@ After every run, the system produces two outputs:
 | **C++17** | Core implementation |
 | **STL** (`unordered_map`, `queue`, `priority_queue`) | All DSA components |
 | **ANSI escape codes** | Colour-coded terminal output |
-| **pybind11 + Python** *(optional)* | Python bindings via `bindings.cpp` |
-| **PowerShell** *(optional)* | Alert notification via `send_alert.ps1` |
+| **pybind11 + Python** | Python bindings via `bindings.cpp` |
+| **PowerShell** | Alert notification via `send_alert.ps1` |
 
 ---
 *Cummins College of Engineering · DSA Competition Project 2025*
